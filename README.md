@@ -1,2 +1,2 @@
 # CDAC-Study
-here is various coding programme of different lang as c,Java
+here is various coding programme of different languages as c,Java
